@@ -128,23 +128,35 @@ header {
     border-radius:7px;
 }
 .flage img{
-    width: 30px;
+    width: 60px;
+    margin-left:10px;
+    margin-top: 10px;
 }
+
 .flage{
     border: 1px solid rgb(69, 62, 62);
-    padding: 2px;
-    margin-right: 5 px;
-    border-spacing: 15px;
-    border-radius:5px;
+    padding: 1px;
+    margin-left: 3px;
+    border-spacing: 2px;
+    border-radius:3px;
+    width:130px;
+    height:50px;
+    margin-top: 10px;
+    
 }
 .globe img{
-    width: 30px;
+    width: 50px;
+    margin-left:10px;
+    margin-top: 10px;
 }
 .globe{
-    border:1px solid rgb(97, 89, 89);
-    padding:2px;
-    margin-left: 10px;
-    border-radius:5px;
+    border:1px solid rgb(46, 44, 44);
+    padding:1px;
+    margin-left: 3px;
+    border-radius:3px;
+    width:130px;
+    height:50px;
+    margin-top: 10px;
 }
 .gol-1 span{
     padding:10px;
